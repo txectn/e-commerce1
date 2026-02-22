@@ -18,15 +18,16 @@ It is designed for online shops, showcasing products, and simple cart functional
 ---
 
 ## Folder Structure
-e-com1/
-├── changelog.md
+project-folder/
+├── index.html
 ├── LICENSE.txt
+├── README.md
 ├── preview/
 │ ├── cover.png
+│ ├── Thumbnail.png
 │ ├── homepage.png
 │ └── mobile-view.png
-├── README.md
-└── src/
+│  
 ├── assets/
 │ ├── css/
 │ │ ├── 404.css
@@ -71,7 +72,6 @@ e-com1/
 │ ├── contact.html
 │ ├── deliveryInfo.html
 │ ├── help.html
-│ ├── index.html
 │ ├── payment.html
 │ ├── product.html
 │ ├── termsAndConditions.html
@@ -86,7 +86,7 @@ e-com1/
 
 ## Getting Started
 1. Download the package
-2. Open `src/pages/index.html` in your browser
+2. Open `/index.html` in your browser
 3. Navigate through all pages
 4. Customize styles in `assets/css/`
 5. Modify scripts in `assets/js/`
