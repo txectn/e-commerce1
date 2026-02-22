@@ -136,4 +136,5 @@ See `LICENSE.txt` for full details.
 ## Credits
 - **Icons:** Iconify 
 - **Fonts:** Google Fonts  
+- **swiper:** swiperjs
 - **Images:** Demo images are for preview purposes only
